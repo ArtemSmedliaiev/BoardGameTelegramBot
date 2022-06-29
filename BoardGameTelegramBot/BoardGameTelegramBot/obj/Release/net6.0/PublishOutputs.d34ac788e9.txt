@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\BoardGameTelegramBot.exe
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\BoardGameTelegramBot.dll
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\BoardGameTelegramBot.deps.json
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\BoardGameTelegramBot.runtimeconfig.json
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\BoardGameTelegramBot.pdb
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\Newtonsoft.Json.dll
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\Telegram.Bot.dll
+C:\Users\user\source\repos\BoardGameTelegramBot\BoardGameTelegramBot\publish\Telegram.Bot.Extensions.Polling.dll
